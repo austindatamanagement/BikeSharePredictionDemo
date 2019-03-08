@@ -50,7 +50,7 @@ This lab walks you through the steps to create a linear regression model in the 
 
 ![](./images/500/Picture500-16.png)
 
--   In the **Notebooks** section, click on **Import** and import the [**Bike Share Availability Prediction.json**](./files/scripts/Bike Share Availability Prediction.json) file.
+-   In the **Notebooks** section, click on **Import** and import the [**Bike Share Availability Prediction.json**](./files/scripts/Bike_Share_Availability_Prediction.json) file.
 
 ![](./images/500/Picture500-17.png)
 
