@@ -50,7 +50,7 @@ This lab walks you through the steps to create a linear regression model in the 
 
 ![](./images/500/Picture500-16.png)
 
--   In the **Notebooks** section, click on **Import** and import the [**Bike Share Availability Prediction.json**](./files/scripts/Bike Share Availability Prediction.json) file.
+-   In the **Notebooks** section, click on **Import** and import the [**Bike Share Availability Prediction.json**](./files/scripts/Bike_Share_Availability_Prediction.json) file.
 
 ![](./images/500/Picture500-17.png)
 
@@ -59,7 +59,16 @@ The entire code for creating the model in OML is now accessible in the **Bike Sh
 
 
 ### **STEP 2: Run the Code in the OML Notebook**
-Run the code in the **Bike Share Availability Prediction** notebook to train and validate a linear regression model and apply it to a weather forecast to predict the bike availability for a future day. Go over paragraphs one-by-one and run each at a time. Make sure each paragraph is completed without error. As the result of running the code in this notebook, several tables will be created. We will load a few of those tables in OAC in the next sections in order to generate our desired graphs. Note that running the entire notebook may take about 45 minutes.
+
+- Go to the **Bike Share Availability Prediction** notebook. First, you need to make sure to bind the interpreter in the notebook. Click on the **Interpreter binding** icon shown in the picture below.
+
+![](./images/500/Picture500-21.png)
+
+- Make sure the **%md** and one of the **%sql and %script** interpreters are selected and save the selected binding.
+
+![](./images/500/Picture500-22.png)
+
+- Now run the code in the **Bike Share Availability Prediction** notebook to train and validate a linear regression model and apply it to a weather forecast to predict the bike availability for a future day. Go over paragraphs one-by-one and run each at a time. Make sure each paragraph is completed without error. As the result of running the code in this notebook, several tables will be created. We will load a few of those tables in OAC in the next sections in order to generate our desired graphs. Note that running the entire notebook may take about 45 minutes.
 
 
 ## Part 2. Visualize results in OAC
