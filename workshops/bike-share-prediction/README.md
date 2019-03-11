@@ -32,7 +32,6 @@ You will take on 2 Personas during the workshop. The **Data Scientist Persona**
 ![](images/common/cloud_ready.jpg)
 
 ### Step 2: Navigate to Lab 100
-- The Lab Guides are best viewed using the Workshop's [GitHub Pages Website URL](https://oracle.github.io/learning-library/workshops/bike-share-prediction).
 
 - You can see a list of Lab Guides by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
 
